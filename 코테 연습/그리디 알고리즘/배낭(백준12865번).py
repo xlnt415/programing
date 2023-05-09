@@ -1,15 +1,24 @@
-n, k = map(int, input('개수와 최대 무게 입력 : ').split())
-
-total_w = 0
+n, k = map(int, input().split())
+w, v = [], []
+for i in range(n):
+    a, b = map(int, input().split())
+    w.append(a)
+    v.append(b)
 
 # 입력 횟수 : 최대 n번
 # 딕셔너리 공부 더 해보기
 
-w, v = list(map(int, input('물건의 무게와 가치를 입력 : ').split()))
+ls = []
 
-dict_sum = sorted(zip(w, v), reverse=True)
+for i in range(n - 1):
+    a = w[i] + w[i + 1]
+    if a <= k:
+
+        b = v[w.index(w[i])] + v[w.index(w[i + 1])]
+        ls.append(b)
 
 
-for i in dict_sum:
-    if i.values() <= k:
-        total_w +=
+if len(ls) != 0:
+    print(max(ls))
+else:
+    print(0)
