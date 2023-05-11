@@ -19,7 +19,6 @@ if money < 10:
         else:
             print(1 + ((money - 5) // 2))
 
-
 # 10보다 큰 경우
 elif money % 5 == 0 or money % 2 == 0:
     m_5, m_2 = money // 5, money % 5 // 2
