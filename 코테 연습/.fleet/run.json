@@ -2,7 +2,8 @@
     "configurations": [
         {
             "type": "python",
-            "name": "거스름돈2.py",
+            "name": "곱하기 혹은 나누기",
+            "arguments": ["$PROJECT_DIR$\그리디 알고리즘\곱하기 혹은 나누기.py", "레고레고"],
         },
         
     ]
