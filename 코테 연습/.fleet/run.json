@@ -2,8 +2,8 @@
     "configurations": [
         {
             "type": "python",
-            "name": "숫자 카드 게임",
-            "arguments": ["$PROJECT_DIR$\그리디 알고리즘\숫자 카드 게임.py", "레고레고"],
+            "name": "1이 될 떄 까지",
+            "arguments": ["$PROJECT_DIR$\그리디 알고리즘\1이 될 때 까지.py", "레고레고"],
         },
         
     ]
