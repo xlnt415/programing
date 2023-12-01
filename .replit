@@ -1,4 +1,4 @@
-entrypoint = "Julia/test.jl"
+entrypoint = "Julia/함수호출_2.jl"
 
 [interpreter]
 command = ["julia", "-i", "--banner=no"]
