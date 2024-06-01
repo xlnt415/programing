@@ -4,9 +4,10 @@
 -   Keyword - Process, Thread
   
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://velog.velcdn.com/images/smc2315/post/f71f594c-93f2-4093-8fa2-9f121c6bcee4/image.png[](https://velog.velcdn.com/images/smc2315/post/f71f594c-93f2-4093-8fa2-9f121c6bcee4/image.png" alt="사진1" style="width: 45%;"/>
-  <img src="https://miro.medium.com/v2/resize:fit:763/1*F8ckVaR__PlBssnf-mn76A.png[](https://miro.medium.com/v2/resize:fit:763/1*F8ckVaR__PlBssnf-mn76A.png" alt="사진2" style="width: 45%;"/>
+  <img src="https://velog.velcdn.com/images/smc2315/post/f71f594c-93f2-4093-8fa2-9f121c6bcee4/image.png" alt="사진1" style="width: 45%;"/>
+  <img src="https://miro.medium.com/v2/resize:fit:763/1*F8ckVaR__PlBssnf-mn76A.png" alt="사진2" style="width: 45%;"/>
 </div>
+
 
 
 ## 1. 프로세스
